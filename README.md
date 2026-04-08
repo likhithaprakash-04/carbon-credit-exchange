@@ -91,3 +91,11 @@ cd frontend && npm start
 
 ## 📄 License
 MIT License
+
+## 🔗 Live Deployed Contracts (Sepolia Testnet)
+
+| Contract | Address | Etherscan |
+|---|---|---|
+| CarbonCredit | 0xe195b26E08405A73758d456871792c939f4542E7 | [View Live ↗](https://sepolia.etherscan.io/address/0xe195b26E08405A73758d456871792c939f4542E7) |
+| TradingExchange | 0x12799BA0aD2eAe5F18A3262589789Beb63A3Db0b | [View Live ↗](https://sepolia.etherscan.io/address/0x12799BA0aD2eAe5F18A3262589789Beb63A3Db0b) |
+| DAOGovernance | 0x72Fc38FF98e2b0668344dfF282A1725BCC4f044e | [View Live ↗](https://sepolia.etherscan.io/address/0x72Fc38FF98e2b0668344dfF282A1725BCC4f044e) |

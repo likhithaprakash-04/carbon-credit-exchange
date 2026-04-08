@@ -1,0 +1,201 @@
+project_id,project_name,methodology,country,project_type,vintage_year,total_credits_issued,credits_retired,price_per_credit_usd,verification_body,is_verified,latitude,longitude,co2_reduced_tonnes,sdg_goals_count
+VCS-1000,India Biogas Project 1,VCS VM0015,India,Biogas,2023,145194,16049,12.37,Verra,True,16.764,-168.5582,25061,4
+VCS-1001,Brazil Solar Farm Project 2,ACR,Brazil,Solar Farm,2019,376400,42590,32.46,Bureau Veritas,True,-1.6028,-79.8513,2203,3
+VCS-1002,Colombia Biogas Project 3,Gold Standard,Colombia,Biogas,2020,82516,14110,43.2,SCS Global,True,-47.943,-145.1821,90665,5
+VCS-1003,Vietnam Reforestation Project 4,ACR,Vietnam,Reforestation,2018,484548,24807,6.31,SCS Global,True,15.0558,73.6459,12512,4
+VCS-1004,India Wind Energy Project 5,VCS VM0038,India,Wind Energy,2018,200295,18217,22.04,SCS Global,True,-11.8765,-104.5775,70486,2
+VCS-1005,Kenya Cookstoves Project 6,ACR,Kenya,Cookstoves,2023,129351,10708,22.41,SCS Global,True,28.9999,123.4267,15163,4
+VCS-1006,USA Reforestation Project 7,VCS VM0033,USA,Reforestation,2020,35701,13826,41.35,SCS Global,True,25.207,-37.5725,169019,8
+VCS-1007,China Solar Farm Project 8,VCS VM0038,China,Solar Farm,2019,391588,36789,25.64,Bureau Veritas,False,-12.9405,179.0373,36762,8
+VCS-1008,Brazil Reforestation Project 9,VCS VM0015,Brazil,Reforestation,2019,329962,10484,36.27,Bureau Veritas,True,-9.9802,34.5198,123196,5
+VCS-1009,Brazil Cookstoves Project 10,CAR,Brazil,Cookstoves,2023,61058,44676,40.16,SCS Global,True,-45.4982,-23.4845,119440,1
+VCS-1010,China Biogas Project 11,ACR,China,Biogas,2019,267171,6973,39.56,SCS Global,True,-40.1309,94.5039,141894,1
+VCS-1011,USA Cookstoves Project 12,VCS VM0033,USA,Cookstoves,2018,59650,23788,39.91,SCS Global,True,-52.4697,136.0835,21145,2
+VCS-1012,Vietnam Biogas Project 13,VCS VM0015,Vietnam,Biogas,2022,402517,8241,8.39,Bureau Veritas,True,-25.5426,134.0759,111423,4
+VCS-1013,Indonesia Cookstoves Project 14,CAR,Indonesia,Cookstoves,2020,210186,44019,30.29,Bureau Veritas,False,-44.2695,-99.109,89127,1
+VCS-1014,Indonesia Cookstoves Project 15,ACR,Indonesia,Cookstoves,2019,4770,4652,32.73,Verra,True,-51.238,-168.6913,87119,2
+VCS-1015,Indonesia Cookstoves Project 16,Gold Standard,Indonesia,Cookstoves,2023,255496,14040,25.65,Bureau Veritas,True,42.0005,110.6989,50414,2
+VCS-1016,Colombia Reforestation Project 17,Gold Standard,Colombia,Reforestation,2021,216535,30606,39.28,Verra,True,-52.1204,82.1569,29144,4
+VCS-1017,Indonesia Solar Farm Project 18,ACR,Indonesia,Solar Farm,2021,74495,27648,10.71,Bureau Veritas,True,53.6832,-152.8614,144764,2
+VCS-1018,Brazil Reforestation Project 19,VCS VM0015,Brazil,Reforestation,2019,88194,26634,23.4,Gold Standard,False,57.3176,-120.7306,1065,7
+VCS-1019,Vietnam Wind Energy Project 20,Gold Standard,Vietnam,Wind Energy,2021,366214,47874,44.81,Bureau Veritas,True,-35.3133,-101.6277,15831,1
+VCS-1020,USA Biogas Project 21,VCS VM0015,USA,Biogas,2018,307277,31246,24.12,Gold Standard,True,64.9013,-151.1599,49212,2
+VCS-1021,India Cookstoves Project 22,CAR,India,Cookstoves,2019,212694,7856,42.55,Gold Standard,True,20.5196,-29.079,153506,6
+VCS-1022,Indonesia Wind Energy Project 23,CAR,Indonesia,Wind Energy,2023,165722,15642,14.16,Gold Standard,True,-0.5608,154.4466,19516,1
+VCS-1023,India Mangrove Project 24,VCS VM0015,India,Mangrove,2022,112754,33153,14.14,SCS Global,True,54.3051,-46.9702,41852,8
+VCS-1024,China Cookstoves Project 25,ACR,China,Cookstoves,2023,278317,512,31.05,SCS Global,True,62.0609,-131.6552,30758,2
+VCS-1025,Kenya Biogas Project 26,Gold Standard,Kenya,Biogas,2020,318105,13803,33.14,Gold Standard,True,5.7032,-89.5963,13816,2
+VCS-1026,Colombia Biogas Project 27,Gold Standard,Colombia,Biogas,2018,2858,21859,35.39,SCS Global,True,36.36,18.605,112615,1
+VCS-1027,India Reforestation Project 28,CAR,India,Reforestation,2019,287046,2361,38.05,Gold Standard,False,-43.4321,-69.027,10958,6
+VCS-1028,Indonesia Solar Farm Project 29,CAR,Indonesia,Solar Farm,2018,186429,36692,40.13,Bureau Veritas,True,60.3493,-94.7746,43098,3
+VCS-1029,Brazil Mangrove Project 30,VCS VM0038,Brazil,Mangrove,2023,485697,21770,35.86,Bureau Veritas,True,-25.3153,103.4548,28836,7
+VCS-1030,Vietnam Reforestation Project 31,VCS VM0038,Vietnam,Reforestation,2019,429126,30166,17.69,Gold Standard,True,-56.9236,-110.4733,86551,5
+VCS-1031,China Reforestation Project 32,Gold Standard,China,Reforestation,2023,268075,26193,31.54,SCS Global,True,-45.0056,169.3442,47310,5
+VCS-1032,India Reforestation Project 33,ACR,India,Reforestation,2021,182239,47745,36.03,Bureau Veritas,True,-9.9246,27.5717,67273,1
+VCS-1033,Colombia Biogas Project 34,VCS VM0015,Colombia,Biogas,2022,486267,35287,31.85,Gold Standard,True,-3.9313,161.5948,87059,6
+VCS-1034,India Biogas Project 35,CAR,India,Biogas,2020,266878,20269,31.01,SCS Global,False,30.6371,19.5885,50789,7
+VCS-1035,Colombia Biogas Project 36,CAR,Colombia,Biogas,2023,474330,11405,28.85,SCS Global,False,11.2318,-179.8539,75712,4
+VCS-1036,USA Mangrove Project 37,VCS VM0033,USA,Mangrove,2021,232819,44277,11.98,Bureau Veritas,True,25.6506,-77.8369,174525,6
+VCS-1037,Indonesia Reforestation Project 38,CAR,Indonesia,Reforestation,2020,118776,13050,9.19,Verra,True,67.9117,40.0586,19591,8
+VCS-1038,Indonesia Mangrove Project 39,CAR,Indonesia,Mangrove,2023,202315,32399,19.79,Gold Standard,True,56.0458,129.7586,28441,7
+VCS-1039,Kenya Solar Farm Project 40,CAR,Kenya,Solar Farm,2022,244557,3291,26.41,Verra,False,-42.6659,-12.7284,139733,6
+VCS-1040,Colombia Mangrove Project 41,ACR,Colombia,Mangrove,2021,471395,10430,34.23,Bureau Veritas,False,-26.3051,-90.9937,167659,5
+VCS-1041,Vietnam Cookstoves Project 42,CAR,Vietnam,Cookstoves,2019,144968,28827,6.25,SCS Global,True,-24.677,-64.9046,142097,2
+VCS-1042,Kenya Solar Farm Project 43,VCS VM0038,Kenya,Solar Farm,2021,364829,10014,32.67,Verra,False,-7.0121,15.34,109492,1
+VCS-1043,Colombia Solar Farm Project 44,VCS VM0033,Colombia,Solar Farm,2022,497008,45581,3.82,Bureau Veritas,False,-59.2335,-53.3668,198018,7
+VCS-1044,Indonesia Mangrove Project 45,VCS VM0033,Indonesia,Mangrove,2019,144096,28562,23.4,Bureau Veritas,True,26.9536,107.3312,190339,3
+VCS-1045,Kenya Mangrove Project 46,ACR,Kenya,Mangrove,2022,15138,25822,27.86,Verra,True,23.5575,-131.1482,121531,3
+VCS-1046,China Reforestation Project 47,VCS VM0033,China,Reforestation,2020,111970,29799,16.73,Bureau Veritas,True,37.7613,119.4927,66631,2
+VCS-1047,Brazil Mangrove Project 48,CAR,Brazil,Mangrove,2022,28307,22935,12.42,Verra,True,38.0503,161.8602,52761,1
+VCS-1048,Kenya Cookstoves Project 49,VCS VM0038,Kenya,Cookstoves,2019,249282,43873,7.8,Gold Standard,False,30.9304,96.0833,44484,2
+VCS-1049,China Solar Farm Project 50,VCS VM0015,China,Solar Farm,2022,14462,20444,27.18,Bureau Veritas,False,62.3912,-108.6013,155714,4
+VCS-1050,China Reforestation Project 51,CAR,China,Reforestation,2022,423328,7933,36.44,Verra,True,9.2569,58.1477,18576,6
+VCS-1051,Colombia Reforestation Project 52,VCS VM0033,Colombia,Reforestation,2018,228291,23736,29.69,Bureau Veritas,True,-3.3867,84.1663,171013,5
+VCS-1052,Vietnam Cookstoves Project 53,VCS VM0033,Vietnam,Cookstoves,2021,433922,47908,27.88,SCS Global,True,47.995,-148.8014,118675,4
+VCS-1053,Colombia Mangrove Project 54,Gold Standard,Colombia,Mangrove,2018,260158,21300,10.64,Gold Standard,True,43.7182,-57.478,156778,5
+VCS-1054,Brazil Cookstoves Project 55,ACR,Brazil,Cookstoves,2019,45885,15817,33.24,Bureau Veritas,True,29.7792,52.525,129165,8
+VCS-1055,India Reforestation Project 56,Gold Standard,India,Reforestation,2019,213022,45336,13.22,SCS Global,False,11.9515,-56.2473,196042,6
+VCS-1056,Vietnam Wind Energy Project 57,Gold Standard,Vietnam,Wind Energy,2020,132807,15108,8.07,Gold Standard,True,-44.4579,12.911,181422,3
+VCS-1057,Indonesia Solar Farm Project 58,CAR,Indonesia,Solar Farm,2021,145965,47486,27.76,SCS Global,True,48.2417,-73.3513,95102,3
+VCS-1058,Brazil Wind Energy Project 59,CAR,Brazil,Wind Energy,2022,67365,17977,4.91,Verra,True,30.6643,-134.5394,197839,8
+VCS-1059,Brazil Reforestation Project 60,ACR,Brazil,Reforestation,2020,247099,31373,21.5,Gold Standard,True,-27.1778,130.2203,30407,2
+VCS-1060,Vietnam Mangrove Project 61,VCS VM0015,Vietnam,Mangrove,2022,331010,44987,5.25,Gold Standard,True,-48.9265,-90.6513,146795,7
+VCS-1061,Indonesia Cookstoves Project 62,ACR,Indonesia,Cookstoves,2021,237199,29014,15.49,Bureau Veritas,True,13.9218,-158.3171,194509,2
+VCS-1062,Indonesia Solar Farm Project 63,Gold Standard,Indonesia,Solar Farm,2023,43565,10292,13.07,Verra,True,-59.6522,-17.8187,156164,8
+VCS-1063,Brazil Wind Energy Project 64,VCS VM0038,Brazil,Wind Energy,2020,371648,18528,32.53,Bureau Veritas,True,29.36,152.608,164355,4
+VCS-1064,India Mangrove Project 65,ACR,India,Mangrove,2019,340547,9764,41.15,Gold Standard,True,-52.2471,105.3463,156487,5
+VCS-1065,India Mangrove Project 66,VCS VM0033,India,Mangrove,2023,160431,45857,19.91,SCS Global,False,-3.0913,35.2932,113753,6
+VCS-1066,China Cookstoves Project 67,VCS VM0015,China,Cookstoves,2018,121022,44190,38.11,Verra,True,14.9121,94.7192,46425,8
+VCS-1067,Vietnam Cookstoves Project 68,Gold Standard,Vietnam,Cookstoves,2019,307881,28566,29.66,Bureau Veritas,True,1.1014,-32.9947,84663,2
+VCS-1068,USA Solar Farm Project 69,VCS VM0033,USA,Solar Farm,2023,260768,18888,30.83,Bureau Veritas,True,-0.8726,-66.7738,85244,2
+VCS-1069,Brazil Mangrove Project 70,CAR,Brazil,Mangrove,2022,243208,27082,5.28,SCS Global,False,21.3031,93.5966,53861,5
+VCS-1070,Kenya Cookstoves Project 71,Gold Standard,Kenya,Cookstoves,2021,462817,45760,23.36,Verra,True,32.2718,-68.13,4084,7
+VCS-1071,Indonesia Reforestation Project 72,VCS VM0015,Indonesia,Reforestation,2021,497532,7698,30.2,Gold Standard,False,61.2449,-74.9298,185419,5
+VCS-1072,Vietnam Mangrove Project 73,VCS VM0033,Vietnam,Mangrove,2019,240487,36127,9.07,Gold Standard,True,52.3235,-80.5509,109274,6
+VCS-1073,China Cookstoves Project 74,VCS VM0015,China,Cookstoves,2020,381659,19566,38.17,Bureau Veritas,True,-1.9488,-5.6371,87647,7
+VCS-1074,USA Mangrove Project 75,VCS VM0038,USA,Mangrove,2023,126202,37473,19.08,Bureau Veritas,True,-18.6371,-9.7285,100437,7
+VCS-1075,Kenya Biogas Project 76,VCS VM0033,Kenya,Biogas,2018,67189,32918,43.54,SCS Global,True,53.6447,-21.4898,138374,8
+VCS-1076,Kenya Reforestation Project 77,VCS VM0033,Kenya,Reforestation,2023,81929,4903,22.72,SCS Global,True,21.0237,-36.906,21554,6
+VCS-1077,Colombia Biogas Project 78,Gold Standard,Colombia,Biogas,2023,377814,49768,23.49,Verra,True,-29.4799,66.3838,75834,4
+VCS-1078,India Biogas Project 79,VCS VM0033,India,Biogas,2018,399652,41533,32.56,Verra,False,-38.3726,-72.1922,8088,1
+VCS-1079,Brazil Wind Energy Project 80,Gold Standard,Brazil,Wind Energy,2020,197524,28225,9.11,Bureau Veritas,True,-37.9021,-151.5714,100781,4
+VCS-1080,Kenya Mangrove Project 81,VCS VM0038,Kenya,Mangrove,2021,335445,16644,22.3,Verra,False,57.1572,63.9399,41912,2
+VCS-1081,USA Mangrove Project 82,ACR,USA,Mangrove,2020,335987,27807,31.99,Bureau Veritas,True,-34.1018,-41.5104,127170,2
+VCS-1082,Colombia Solar Farm Project 83,ACR,Colombia,Solar Farm,2020,302366,19390,44.69,SCS Global,True,67.1328,56.9627,72453,1
+VCS-1083,Brazil Cookstoves Project 84,ACR,Brazil,Cookstoves,2023,261428,18756,35.58,Gold Standard,True,-31.5294,-111.5525,66200,3
+VCS-1084,India Biogas Project 85,CAR,India,Biogas,2023,21668,20246,36.12,Verra,True,35.2068,-147.552,77861,6
+VCS-1085,Colombia Biogas Project 86,VCS VM0038,Colombia,Biogas,2019,70289,35350,39.81,SCS Global,True,47.9614,-87.4908,126813,5
+VCS-1086,USA Biogas Project 87,VCS VM0015,USA,Biogas,2021,40478,9224,34.67,Gold Standard,False,65.7451,109.6516,96385,2
+VCS-1087,Brazil Mangrove Project 88,Gold Standard,Brazil,Mangrove,2022,65796,29804,18.48,SCS Global,False,46.9142,158.5051,28902,4
+VCS-1088,Brazil Mangrove Project 89,ACR,Brazil,Mangrove,2022,172969,39982,12.3,Verra,False,58.2204,-71.2115,107532,2
+VCS-1089,Brazil Solar Farm Project 90,VCS VM0015,Brazil,Solar Farm,2020,259277,7610,7.08,Gold Standard,False,-1.0263,61.375,195309,7
+VCS-1090,Kenya Cookstoves Project 91,VCS VM0033,Kenya,Cookstoves,2023,52915,32069,28.86,SCS Global,True,29.7365,-101.7829,117074,4
+VCS-1091,India Wind Energy Project 92,CAR,India,Wind Energy,2020,286456,42259,18.06,Bureau Veritas,True,-35.3249,-136.0225,119701,2
+VCS-1092,Indonesia Biogas Project 93,CAR,Indonesia,Biogas,2023,314076,1399,5.12,SCS Global,True,68.5467,103.3121,54293,2
+VCS-1093,Indonesia Cookstoves Project 94,ACR,Indonesia,Cookstoves,2019,427273,15269,16.8,Gold Standard,True,-23.9543,174.2501,34576,5
+VCS-1094,India Solar Farm Project 95,CAR,India,Solar Farm,2018,70102,973,18.05,Gold Standard,True,-57.9485,-84.4677,33728,7
+VCS-1095,India Cookstoves Project 96,CAR,India,Cookstoves,2018,250690,29378,35.68,Verra,False,5.499,160.3496,11867,5
+VCS-1096,Brazil Mangrove Project 97,VCS VM0015,Brazil,Mangrove,2021,445228,26320,20.9,Verra,False,32.6122,-20.3176,21678,6
+VCS-1097,Kenya Cookstoves Project 98,VCS VM0015,Kenya,Cookstoves,2019,145187,40915,29.59,SCS Global,False,69.3016,11.0005,119438,7
+VCS-1098,India Reforestation Project 99,CAR,India,Reforestation,2023,461170,36132,33.28,Gold Standard,False,-1.2979,-97.7423,89348,8
+VCS-1099,Colombia Mangrove Project 100,CAR,Colombia,Mangrove,2018,164865,27968,16.13,SCS Global,True,63.967,67.2556,124826,2
+VCS-1100,India Reforestation Project 101,VCS VM0015,India,Reforestation,2021,51627,48797,34.03,Gold Standard,True,16.2405,22.1711,86914,2
+VCS-1101,USA Mangrove Project 102,CAR,USA,Mangrove,2021,456130,47255,5.16,SCS Global,True,-14.286,28.0507,56268,3
+VCS-1102,Vietnam Biogas Project 103,VCS VM0038,Vietnam,Biogas,2018,184560,36455,18.44,SCS Global,True,44.9388,124.2559,163481,1
+VCS-1103,China Cookstoves Project 104,VCS VM0015,China,Cookstoves,2019,144272,46052,35.02,SCS Global,True,-59.2062,133.1506,148957,7
+VCS-1104,Kenya Reforestation Project 105,CAR,Kenya,Reforestation,2023,17073,6013,34.34,Gold Standard,False,-5.4218,-57.2774,97507,5
+VCS-1105,USA Biogas Project 106,ACR,USA,Biogas,2022,45541,3447,9.53,Verra,True,-24.6266,58.2979,127813,8
+VCS-1106,China Mangrove Project 107,VCS VM0038,China,Mangrove,2022,60673,22621,21.06,SCS Global,False,8.5014,-68.969,58307,7
+VCS-1107,Brazil Cookstoves Project 108,VCS VM0015,Brazil,Cookstoves,2019,159030,13843,35.23,SCS Global,True,-17.3441,-177.2172,196325,7
+VCS-1108,Kenya Solar Farm Project 109,VCS VM0033,Kenya,Solar Farm,2022,369926,15080,24.01,SCS Global,True,-8.3807,87.1349,114852,1
+VCS-1109,India Mangrove Project 110,Gold Standard,India,Mangrove,2022,226068,37578,19.99,Bureau Veritas,True,-45.0275,-172.4916,85636,3
+VCS-1110,Vietnam Cookstoves Project 111,CAR,Vietnam,Cookstoves,2020,47205,28620,38.47,Gold Standard,False,16.5533,8.6265,104247,5
+VCS-1111,USA Biogas Project 112,VCS VM0038,USA,Biogas,2020,409482,11018,6.21,Verra,True,57.77,-54.2249,191178,3
+VCS-1112,India Solar Farm Project 113,VCS VM0038,India,Solar Farm,2020,104427,11370,28.3,Verra,True,63.668,46.0616,122122,8
+VCS-1113,USA Biogas Project 114,CAR,USA,Biogas,2020,80145,28820,5.87,Bureau Veritas,True,43.5229,32.9111,92759,2
+VCS-1114,Vietnam Wind Energy Project 115,VCS VM0033,Vietnam,Wind Energy,2018,30826,24165,37.93,Verra,True,19.9511,2.5444,121797,1
+VCS-1115,Indonesia Mangrove Project 116,Gold Standard,Indonesia,Mangrove,2022,250366,32857,9.34,Verra,False,-46.5448,143.6857,90530,2
+VCS-1116,Kenya Cookstoves Project 117,VCS VM0015,Kenya,Cookstoves,2019,371997,28688,44.62,Gold Standard,True,-11.5292,-78.1583,107656,6
+VCS-1117,Brazil Biogas Project 118,CAR,Brazil,Biogas,2023,176452,4319,16.85,Bureau Veritas,True,-27.2405,126.5639,158494,3
+VCS-1118,India Wind Energy Project 119,ACR,India,Wind Energy,2023,75149,22925,16.03,Bureau Veritas,True,17.3554,157.6808,81655,7
+VCS-1119,USA Biogas Project 120,VCS VM0038,USA,Biogas,2023,369485,48416,44.88,Verra,False,6.1035,-173.437,81467,3
+VCS-1120,USA Solar Farm Project 121,VCS VM0033,USA,Solar Farm,2019,119773,9015,9.51,SCS Global,True,5.9997,14.3175,194131,1
+VCS-1121,USA Biogas Project 122,ACR,USA,Biogas,2019,314129,24688,9.48,Gold Standard,True,33.7538,-164.2707,95998,4
+VCS-1122,China Mangrove Project 123,CAR,China,Mangrove,2021,123684,34996,13.05,Bureau Veritas,True,-12.1807,160.9669,115999,8
+VCS-1123,Colombia Wind Energy Project 124,ACR,Colombia,Wind Energy,2022,220498,10620,37.31,Gold Standard,True,-53.2166,-6.9874,97811,2
+VCS-1124,India Biogas Project 125,Gold Standard,India,Biogas,2018,401092,10506,14.46,Gold Standard,False,-48.0772,147.7818,118760,6
+VCS-1125,Colombia Reforestation Project 126,VCS VM0015,Colombia,Reforestation,2021,264196,24507,12.9,Verra,True,-30.81,-65.2734,26474,6
+VCS-1126,Kenya Solar Farm Project 127,VCS VM0015,Kenya,Solar Farm,2020,481979,30962,32.24,Gold Standard,False,-1.6818,-178.1096,21268,1
+VCS-1127,Indonesia Wind Energy Project 128,VCS VM0038,Indonesia,Wind Energy,2022,493949,47660,28.57,Bureau Veritas,True,40.9024,-94.4495,32441,1
+VCS-1128,Colombia Solar Farm Project 129,CAR,Colombia,Solar Farm,2022,240659,4116,7.66,Bureau Veritas,True,22.1541,27.0171,188862,3
+VCS-1129,Colombia Wind Energy Project 130,VCS VM0015,Colombia,Wind Energy,2022,185977,15765,26.97,Gold Standard,True,8.053,-50.1826,138403,1
+VCS-1130,Vietnam Mangrove Project 131,VCS VM0015,Vietnam,Mangrove,2023,203837,24464,13.65,Verra,True,42.5076,-55.8711,192636,2
+VCS-1131,USA Cookstoves Project 132,VCS VM0038,USA,Cookstoves,2018,185706,35783,17.22,Gold Standard,False,67.5065,-7.7288,48283,3
+VCS-1132,Vietnam Reforestation Project 133,VCS VM0015,Vietnam,Reforestation,2020,106691,2870,36.23,Verra,True,61.3382,5.5381,142852,8
+VCS-1133,Brazil Wind Energy Project 134,CAR,Brazil,Wind Energy,2019,151004,23394,39.21,Verra,True,-24.4818,107.7633,115044,7
+VCS-1134,Vietnam Biogas Project 135,VCS VM0033,Vietnam,Biogas,2020,98946,32519,32.07,SCS Global,True,44.1493,81.7493,21190,7
+VCS-1135,Kenya Cookstoves Project 136,ACR,Kenya,Cookstoves,2020,169407,6723,6.36,SCS Global,True,-2.031,78.3586,44184,8
+VCS-1136,Vietnam Wind Energy Project 137,VCS VM0015,Vietnam,Wind Energy,2023,457150,23105,28.82,Bureau Veritas,True,23.131,104.932,15536,2
+VCS-1137,Colombia Biogas Project 138,Gold Standard,Colombia,Biogas,2022,421005,49145,31.54,Verra,True,50.327,64.112,115364,1
+VCS-1138,India Solar Farm Project 139,VCS VM0038,India,Solar Farm,2023,193061,23733,19.08,Verra,True,28.2781,161.5765,98021,8
+VCS-1139,Kenya Reforestation Project 140,ACR,Kenya,Reforestation,2020,209684,20603,30.28,Gold Standard,True,-56.6313,-113.0227,136223,7
+VCS-1140,India Cookstoves Project 141,Gold Standard,India,Cookstoves,2020,370118,29246,12.01,SCS Global,False,-33.9768,-131.1378,19912,8
+VCS-1141,Vietnam Solar Farm Project 142,VCS VM0015,Vietnam,Solar Farm,2023,444296,20944,31.05,Verra,True,55.8731,126.4903,187096,3
+VCS-1142,Indonesia Wind Energy Project 143,VCS VM0015,Indonesia,Wind Energy,2019,416270,9101,12.94,Bureau Veritas,True,-13.0835,26.0199,123027,3
+VCS-1143,India Cookstoves Project 144,VCS VM0015,India,Cookstoves,2020,209750,46984,33.19,Bureau Veritas,False,47.0341,-153.4497,83606,2
+VCS-1144,Vietnam Mangrove Project 145,CAR,Vietnam,Mangrove,2022,181624,8410,39.87,Gold Standard,True,-3.7596,147.8564,15026,2
+VCS-1145,Kenya Cookstoves Project 146,Gold Standard,Kenya,Cookstoves,2019,85917,21145,42.26,Gold Standard,True,63.1728,6.8032,74961,2
+VCS-1146,Indonesia Wind Energy Project 147,CAR,Indonesia,Wind Energy,2022,144891,8203,29.25,Verra,True,16.9351,29.0327,45379,6
+VCS-1147,Brazil Cookstoves Project 148,VCS VM0015,Brazil,Cookstoves,2018,24835,42038,35.38,SCS Global,True,39.7047,-30.0288,168007,1
+VCS-1148,China Mangrove Project 149,CAR,China,Mangrove,2020,254202,16048,36.8,Bureau Veritas,True,-1.0393,67.9009,41939,8
+VCS-1149,Vietnam Mangrove Project 150,VCS VM0033,Vietnam,Mangrove,2019,179358,39758,9.03,SCS Global,True,66.7986,-132.9242,97634,2
+VCS-1150,Indonesia Wind Energy Project 151,VCS VM0033,Indonesia,Wind Energy,2018,141232,29464,13.41,Verra,True,-22.2724,-41.7061,161817,7
+VCS-1151,Kenya Solar Farm Project 152,Gold Standard,Kenya,Solar Farm,2022,379078,20494,10.97,Gold Standard,False,69.476,-11.9466,81382,8
+VCS-1152,India Reforestation Project 153,VCS VM0033,India,Reforestation,2022,240720,15776,12.04,SCS Global,True,-53.4297,-1.8381,172010,8
+VCS-1153,Brazil Wind Energy Project 154,VCS VM0015,Brazil,Wind Energy,2021,71220,17332,33.56,Bureau Veritas,True,-54.1185,-161.5832,147776,4
+VCS-1154,China Wind Energy Project 155,VCS VM0015,China,Wind Energy,2021,265375,29514,35.1,SCS Global,True,-43.2738,-145.1947,98331,6
+VCS-1155,USA Cookstoves Project 156,VCS VM0038,USA,Cookstoves,2019,316864,33365,19.86,Verra,True,-54.9412,76.8931,124689,8
+VCS-1156,Kenya Solar Farm Project 157,Gold Standard,Kenya,Solar Farm,2022,168001,10649,19.5,SCS Global,True,5.9509,3.4971,128910,5
+VCS-1157,Brazil Mangrove Project 158,Gold Standard,Brazil,Mangrove,2020,354268,7183,44.16,SCS Global,True,17.5983,-84.409,172359,4
+VCS-1158,Brazil Biogas Project 159,ACR,Brazil,Biogas,2021,90397,34356,29.42,Bureau Veritas,True,46.816,-92.8092,150595,2
+VCS-1159,Brazil Solar Farm Project 160,VCS VM0033,Brazil,Solar Farm,2020,220561,9924,20.34,Gold Standard,False,5.2365,40.1321,124128,1
+VCS-1160,Kenya Biogas Project 161,ACR,Kenya,Biogas,2019,295066,21302,44.92,Bureau Veritas,False,-19.2122,-117.6543,140256,6
+VCS-1161,USA Cookstoves Project 162,CAR,USA,Cookstoves,2023,357906,42159,36.75,SCS Global,False,-35.0057,-91.2531,146799,5
+VCS-1162,China Solar Farm Project 163,Gold Standard,China,Solar Farm,2023,109673,45235,32.61,SCS Global,False,-14.6556,156.1321,189679,5
+VCS-1163,India Wind Energy Project 164,ACR,India,Wind Energy,2023,285788,24883,40.62,Bureau Veritas,True,64.0992,109.6617,76640,1
+VCS-1164,India Wind Energy Project 165,Gold Standard,India,Wind Energy,2021,344918,16806,34.39,Gold Standard,True,47.6337,-82.3922,147829,5
+VCS-1165,India Solar Farm Project 166,ACR,India,Solar Farm,2023,308668,15681,13.18,Gold Standard,True,-53.1762,-31.2115,188551,8
+VCS-1166,Kenya Reforestation Project 167,VCS VM0015,Kenya,Reforestation,2022,488115,10350,20.09,Bureau Veritas,False,24.57,92.128,75799,6
+VCS-1167,Brazil Wind Energy Project 168,VCS VM0015,Brazil,Wind Energy,2023,302011,15218,25.48,Verra,True,-5.675,121.5378,10026,7
+VCS-1168,Kenya Mangrove Project 169,CAR,Kenya,Mangrove,2020,460665,2455,3.39,Verra,True,-23.007,176.0758,142922,8
+VCS-1169,Vietnam Solar Farm Project 170,Gold Standard,Vietnam,Solar Farm,2019,425051,7382,16.89,Bureau Veritas,True,33.4178,-174.9297,88871,5
+VCS-1170,Indonesia Cookstoves Project 171,VCS VM0038,Indonesia,Cookstoves,2022,449867,41859,40.68,Bureau Veritas,True,-48.7241,60.9321,48939,3
+VCS-1171,USA Mangrove Project 172,VCS VM0038,USA,Mangrove,2018,137726,25137,12.89,SCS Global,True,-20.747,80.2377,3497,5
+VCS-1172,USA Biogas Project 173,CAR,USA,Biogas,2019,33571,43764,7.97,SCS Global,True,-7.2958,0.9074,184933,5
+VCS-1173,India Biogas Project 174,CAR,India,Biogas,2020,193698,40280,12.28,Gold Standard,False,-40.0859,89.1845,159290,6
+VCS-1174,Vietnam Mangrove Project 175,ACR,Vietnam,Mangrove,2023,433854,14313,35.0,Verra,False,8.6625,-49.7574,148393,2
+VCS-1175,Indonesia Reforestation Project 176,ACR,Indonesia,Reforestation,2022,79565,10783,16.78,Bureau Veritas,True,28.4384,78.0905,128643,2
+VCS-1176,Vietnam Cookstoves Project 177,VCS VM0015,Vietnam,Cookstoves,2021,70176,33636,20.45,Verra,False,27.4598,-69.059,6206,7
+VCS-1177,Brazil Wind Energy Project 178,CAR,Brazil,Wind Energy,2019,304201,4786,4.9,SCS Global,True,10.3513,-158.308,18592,8
+VCS-1178,China Reforestation Project 179,VCS VM0033,China,Reforestation,2019,404162,8875,35.16,Bureau Veritas,True,69.0714,-42.3073,99458,7
+VCS-1179,Kenya Reforestation Project 180,CAR,Kenya,Reforestation,2020,63197,11696,44.7,Bureau Veritas,True,34.6216,-99.8315,1410,1
+VCS-1180,Vietnam Wind Energy Project 181,CAR,Vietnam,Wind Energy,2023,286446,27795,25.34,Gold Standard,True,-0.1187,-124.1563,49909,2
+VCS-1181,Colombia Reforestation Project 182,ACR,Colombia,Reforestation,2018,127178,13505,5.83,Verra,False,17.712,73.1831,13260,4
+VCS-1182,Brazil Biogas Project 183,VCS VM0033,Brazil,Biogas,2021,123861,35373,12.13,Verra,True,5.5065,-75.8652,192262,6
+VCS-1183,USA Cookstoves Project 184,VCS VM0038,USA,Cookstoves,2020,460411,9388,44.4,Gold Standard,False,-20.9349,-158.0553,155601,3
+VCS-1184,Colombia Biogas Project 185,ACR,Colombia,Biogas,2021,25580,22571,42.55,Bureau Veritas,True,30.5201,-33.0267,79113,7
+VCS-1185,Vietnam Solar Farm Project 186,VCS VM0038,Vietnam,Solar Farm,2019,158672,46371,9.06,Bureau Veritas,True,13.1102,168.403,146589,3
+VCS-1186,Indonesia Mangrove Project 187,Gold Standard,Indonesia,Mangrove,2019,174152,42382,6.32,Bureau Veritas,True,-47.9797,80.8505,50433,1
+VCS-1187,Colombia Wind Energy Project 188,CAR,Colombia,Wind Energy,2022,317104,2591,39.69,Gold Standard,True,2.3212,133.0106,87784,5
+VCS-1188,Indonesia Reforestation Project 189,VCS VM0038,Indonesia,Reforestation,2023,62507,48947,44.98,Bureau Veritas,True,30.4314,73.3567,104474,4
+VCS-1189,USA Cookstoves Project 190,Gold Standard,USA,Cookstoves,2021,245449,34973,30.25,SCS Global,True,-13.2462,137.8123,122660,2
+VCS-1190,Vietnam Biogas Project 191,Gold Standard,Vietnam,Biogas,2019,195356,20507,20.39,Gold Standard,True,-57.8914,19.1922,153600,7
+VCS-1191,Kenya Wind Energy Project 192,VCS VM0038,Kenya,Wind Energy,2020,121596,24893,26.93,Gold Standard,False,11.5835,159.6472,88990,5
+VCS-1192,Vietnam Mangrove Project 193,VCS VM0033,Vietnam,Mangrove,2019,385183,23080,10.11,Bureau Veritas,True,59.1969,15.1693,168746,1
+VCS-1193,Brazil Cookstoves Project 194,VCS VM0015,Brazil,Cookstoves,2023,26435,418,20.32,Gold Standard,True,31.932,-176.7091,133074,8
+VCS-1194,Brazil Wind Energy Project 195,ACR,Brazil,Wind Energy,2023,350571,40404,41.34,Bureau Veritas,True,-59.1404,18.5917,3606,1
+VCS-1195,China Cookstoves Project 196,ACR,China,Cookstoves,2020,9987,32913,37.15,Bureau Veritas,True,-46.0879,-145.327,39532,4
+VCS-1196,China Solar Farm Project 197,Gold Standard,China,Solar Farm,2020,417775,26011,6.32,Bureau Veritas,False,13.4503,176.4839,59707,5
+VCS-1197,India Biogas Project 198,CAR,India,Biogas,2023,399241,2076,6.93,Bureau Veritas,False,11.8512,-159.7986,2977,3
+VCS-1198,Vietnam Reforestation Project 199,VCS VM0033,Vietnam,Reforestation,2023,412239,21710,26.77,Verra,True,-30.1304,144.4583,181979,8
+VCS-1199,Brazil Wind Energy Project 200,VCS VM0015,Brazil,Wind Energy,2023,486273,18374,40.77,Verra,True,60.7396,-66.7855,54805,3

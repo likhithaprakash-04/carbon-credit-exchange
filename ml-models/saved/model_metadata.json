@@ -1,0 +1,24 @@
+{
+  "model": "RandomForestClassifier",
+  "auc_score": 1.0,
+  "cv_auc_mean": 1.0,
+  "features": [
+    "amount_credits",
+    "price_per_credit",
+    "total_value_usd",
+    "days_since_last_tx",
+    "buyer_tx_count",
+    "seller_tx_count",
+    "price_deviation_pct",
+    "value_log",
+    "amount_log",
+    "price_zscore",
+    "high_value_flag",
+    "rapid_tx_flag",
+    "new_buyer_flag",
+    "price_spike_flag",
+    "risk_score"
+  ],
+  "trained_on": 1600,
+  "fraud_rate": 0.08
+}

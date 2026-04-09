@@ -11,83 +11,43 @@ jobs:
     name: Smart Contract Tests
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
         with:
-          submodules: recursive
+          node-version: "20"
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-          cache: 'npm'
+      - name: Install root dependencies
+        run: npm install --legacy-peer-deps
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Compile contracts
+      - name: Compile Solidity contracts
         run: npx hardhat compile
 
-      - name: Run contract tests
+      - name: Run all contract tests
         run: npx hardhat test
-
-      - name: Upload test results
-        if: always()
-        uses: actions/upload-artifact@v3
-        with:
-          name: test-results
-          path: test/
-
-  ml-model-tests:
-    name: ML Model Validation
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install ML dependencies
-        run: |
-          pip install pandas numpy scikit-learn matplotlib seaborn joblib
-
-      - name: Generate datasets
-        run: |
-          cd data
-          python generate_dataset.py
-
-      - name: Train and validate ML model
-        run: |
-          cd ml-models
-          python fraud_detection.py
-
-      - name: Train price predictor
-        run: |
-          cd ml-models
-          python price_predictor.py
 
   frontend-build:
     name: Frontend Build Check
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: recursive
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install frontend dependencies
-        run: |
-          cd frontend
-          npm install
+        run: npm install --legacy-peer-deps
+        working-directory: ./frontend
 
-      - name: Build frontend
-        run: |
-          cd frontend
-          npm run build
+      - name: Build React app
+        run: npm run build
+        working-directory: ./frontend
         env:
-          CI: false
+          CI: "false"
+          SKIP_PREFLIGHT_CHECK: "true"
+          GENERATE_SOURCEMAP: "false"

@@ -51,7 +51,6 @@ analyticsRoutes.get("/summary", async (req: Request, res: Response) => {
     res.status(500).json({ success: false, error: error.message });
   }
 });
-import * as path from "path";
 
 analyticsRoutes.get("/forecast", async (req: Request, res: Response) => {
   try {

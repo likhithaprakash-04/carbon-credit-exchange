@@ -51,3 +51,14 @@ analyticsRoutes.get("/summary", async (req: Request, res: Response) => {
     res.status(500).json({ success: false, error: error.message });
   }
 });
+import * as path from "path";
+
+analyticsRoutes.get("/forecast", async (req: Request, res: Response) => {
+  try {
+    const forecastPath = path.join(__dirname, "../../data/price_forecast.json");
+    const forecast = JSON.parse(fs.readFileSync(forecastPath, "utf8"));
+    res.json({ success: true, data: forecast });
+  } catch (error: any) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});

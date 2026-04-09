@@ -15,7 +15,7 @@
 
 ## 🚀 Live Demo
 
-**Frontend:** http://localhost:3000  
+**Frontend:** https://carbon-credit-exchange-sepia.vercel.app 
 **Backend API:** http://localhost:3001/api/health  
 **Contracts:** Deployed on Ethereum Sepolia Testnet
 
@@ -73,7 +73,7 @@ cd ../frontend
 npm start
 ```
 
-Open http://localhost:3000 ✅
+Open https://carbon-credit-exchange-sepia.vercel.app ✅
 
 ---
 

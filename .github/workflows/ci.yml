@@ -1,4 +1,4 @@
-name: CarbonChain CI/CD Pipeline
+﻿name: CarbonChain CI/CD Pipeline
 
 on:
   push:
@@ -14,18 +14,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Install root dependencies
+      - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Compile Solidity contracts
+      - name: Compile contracts
         run: npx hardhat compile
 
-      - name: Run all contract tests
+      - name: Run tests
         run: npx hardhat test
 
   frontend-build:
@@ -35,19 +35,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Install frontend dependencies
+      - name: Install dependencies
         run: npm install --legacy-peer-deps
-        working-directory: ./frontend
+        working-directory: frontend
 
-      - name: Build React app
+      - name: Build
         run: npm run build
-        working-directory: ./frontend
+        working-directory: frontend
         env:
           CI: "false"
-          SKIP_PREFLIGHT_CHECK: "true"
-          GENERATE_SOURCEMAP: "false"

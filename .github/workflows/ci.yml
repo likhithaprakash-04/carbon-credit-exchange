@@ -1,4 +1,4 @@
-﻿name: CarbonChain CI/CD Pipeline
+name: CarbonChain CI/CD Pipeline
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
     name: Smart Contract Tests
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -19,20 +19,20 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencies
+      - name: Install deps
         run: npm install --legacy-peer-deps
 
-      - name: Compile contracts
+      - name: Compile
         run: npx hardhat compile
 
-      - name: Run tests
+      - name: Test
         run: npx hardhat test
 
   frontend-build:
     name: Frontend Build Check
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -40,11 +40,11 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install dependencies
+      - name: Install frontend deps
         run: npm install --legacy-peer-deps
         working-directory: frontend
 
-      - name: Build
+      - name: Build frontend
         run: npm run build
         working-directory: frontend
         env:
